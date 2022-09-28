@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1659562434 source:c:\users\pc\codeblocksprojects\school_management_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<String.h>
+	"main_menu.h"
+
+1659562408 c:\users\pc\codeblocksprojects\school_management_project\scm.h
+	<stdbool.h>
+
+1659562558 c:\users\pc\codeblocksprojects\school_management_project\main_menu.h
+
+1659562506 source:c:\users\pc\codeblocksprojects\school_management_project\scm.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<stdbool.h>
+	<string.h>
+
+1659562613 source:c:\users\pc\codeblocksprojects\school_management_project\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<stdbool.h>
+	<string.h>
+	"main_menu.h"
+
+1659562434 source:c:\users\dos enter\desktop\school_management_project\school_management_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<String.h>
+	"main_menu.h"
+
+1659581423 c:\users\dos enter\desktop\school_management_project\school_management_project\scm.h
+	<stdbool.h>
+
+1659562558 c:\users\dos enter\desktop\school_management_project\school_management_project\main_menu.h
+
+1659583771 source:c:\users\dos enter\desktop\school_management_project\school_management_project\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<stdbool.h>
+	<string.h>
+	"main_menu.h"
+
+1659581423 source:c:\users\dos enter\desktop\school_management_project\school_management_project\scm.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<stdbool.h>
+	<string.h>
+
+1659588890 source:c:\users\pc\desktop\school_management_project\school_management_project\school_management_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<String.h>
+	"main_menu.h"
+
+1659588825 c:\users\pc\desktop\school_management_project\school_management_project\school_management_project\scm.h
+	<stdbool.h>
+
+1659562558 c:\users\pc\desktop\school_management_project\school_management_project\school_management_project\main_menu.h
+
+1659588869 source:c:\users\pc\desktop\school_management_project\school_management_project\school_management_project\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<stdbool.h>
+	<string.h>
+	"main_menu.h"
+
+1659600193 source:c:\users\pc\desktop\school_management_project\school_management_project\school_management_project\scm.c
+	<stdio.h>
+	<stdlib.h>
+	"SCM.h"
+	<stdbool.h>
+	<string.h>
+
